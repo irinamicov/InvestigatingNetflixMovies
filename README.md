@@ -12,15 +12,15 @@ It turned out that lately, Netflix has released significantly more documentaries
 
 This project is available on [DataCamp](https://www.datacamp.com/)'s platform and requires an **Intermediate Python** level. Even though I had completed only a few introductory and intermediate courses on data science in Python before I worked on this project, I could still utilise quite a few interesting skills and approaches. 
 
-## Some of the things that I did in the project:
+## Some of the things I did in the project:
 
--   Create a dictionary from lists.
--   Create a dataframe from a dictionary.
+-   Created a dictionary from lists.
+-   Created a dataframe from a dictionary.
 -   Read a .csv file into a dataframe.
--   Select columns using both square brackets and the dot notation.
--   Visualise data through line plots and scatter plots with **Matplotlib**.
--   Filter rows using logic operators.
--   Subset columns.
--   Use a <code>for</code> loop.
--   Use the <code>.append()</code>method.
--   Apply a list of colours to a scatter plot to differentiate between several categories.
+-   Selected columns using both square brackets and the dot notation.
+-   Visualised data through line plots and scatter plots with **Matplotlib**.
+-   Filtered rows using logic operators.
+-   Subseted columns.
+-   Used a <code>for</code> loop.
+-   Used the <code>.append()</code>method.
+-   Applied a list of colours to a scatter plot to differentiate between several categories.
